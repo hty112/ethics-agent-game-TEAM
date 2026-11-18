@@ -1,4 +1,4 @@
-# Ethics Agent Game — [팀명 T?]
+# Ethics Agent Game — [4팀]
 
 > **인공지능과 경영 · 11주차 협동학습**
 > Global AI Ethics Simulator — 문화권 기반 윤리 강화학습 3주 스프린트
@@ -14,16 +14,16 @@
 
 | 항목 | 내용 |
 |---|---|
-| 팀명 | T? (예: T3) |
-| 배정 문화권 | KOREA / USA / CHINA / EUROPE / LATIN_AM / MIDDLE_E / AFRICA 중 택1 |
-| Streamlit Cloud URL | https://<your-app>.streamlit.app |
+| 팀명 | T4 (예: T3) |
+| 배정 문화권 | KOREA  |
+| Streamlit Cloud URL | [https://<your-app>.streamlit.app](https://ethics-agent-game-team-uie9sikmyytzrsdc6syhes.streamlit.app/) |
 | 시연 영상 | (선택) YouTube 링크 |
 
 ## 👥 팀원
 
 | 이름 | 학번 | 전공 | 역할 | GitHub |
 |---|---|---|---|---|
-| 홍길동 | 2022xxxxxx | 경영학부 | PM · 문제정의 | @hong |
+|홍길동| 2023316018 | 경영학부 | PM · 문제정의 | @hong |
 | 김철수 | 2022xxxxxx | 컴퓨터공학 | 백엔드 · CI | @kim |
 | 이영희 | 2022xxxxxx | 디자인학부 | UX · 시나리오 | @lee |
 | 박민수 | 2022xxxxxx | 경영학부 | 분석 · 리포트 | @park |
